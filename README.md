@@ -19,4 +19,4 @@ Faqe personale portfolio per te shfaqur projektet dhe aftesine si developer.
 - JavaScript minimal
 
 ## 👤 Autori
-Emri Mbiemri - Detyre Kursi 2024-2025
+Eden Cerova
